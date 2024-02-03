@@ -33,7 +33,7 @@ JustDeyLearn website was designed on WordPress CMS with connection with other we
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Launch the Website: <a href="https://justdeylearn.com" target="_blank">King</a>
+Launch the Website: <a href="https://justdeylearn.com" target="_blank">JustDeyLearn</a>
  <br/>
 <p>JustDeyLearn Homepage Banner Overview</p>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
