@@ -30,7 +30,7 @@ JustDeyLearn website was designed on WordPress CMS with connection with other we
 
 - <b>WordPress
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
