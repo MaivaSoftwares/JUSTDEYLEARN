@@ -36,19 +36,24 @@ JustDeyLearn website was designed on WordPress CMS with connection with other we
 Launch the Website: <a href="https://justdeylearn.com" target="_blank">JustDeyLearn</a>
  <br/>
 <p>JustDeyLearn Homepage Banner Overview</p>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jE5E0jT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<p>JustDeyLearn Homepage features and Courses Overview</p><br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>JustDeyLearn Homepage features Overview</p><br/>
+<img src="https://i.imgur.com/Ih4Uk4Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<p>JustDeyLearn featured Courses Overview</p><br/>
+<img src="https://i.imgur.com/WkkZWkH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<p>JustDeyLearn Testimonial Overview</p><br/>
+<img src="https://i.imgur.com/6D3151P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <p>JustDeyLearn Courses Overview</p><br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sjBWZTC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-<p>JustDeyLearn Library Overview</p><br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <!--
